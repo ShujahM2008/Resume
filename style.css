@@ -1,0 +1,33 @@
+html, body {
+  
+}
+body{
+padding: 20px;
+margin: 50px 2px 100px 200px;
+margin:0px;
+border-style: solid;
+border-color: red;
+border-width:10px;
+border: cyan 7px ridge;
+border-color: red green cyan;
+
+}
+header{
+
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 3px;
+}
+
+h1{
+margin:0px;
+text-transform: uppercase
+}
+.maroon {
+ color:maroon
+}
+#Extra {
+background-color: lightgreen;
+
+}
+h3{
+text-align:center;
